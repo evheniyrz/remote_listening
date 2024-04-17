@@ -175,8 +175,10 @@ main.w-100.reset-background {
   font-weight: 400;
   line-height: 28px;
   text-align: left;
+  text-decoration: none;
   color: inherit;
-  border-bottom: 1px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  padding-bottom: 3px;
 }
 
 .article__content__block__list__item--catalog-link .list__item__link:hover,
