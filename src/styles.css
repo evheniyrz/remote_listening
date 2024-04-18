@@ -284,6 +284,7 @@ main.w-100.reset-background {
 
   .article__content__block__list__item--catalog-link {
     position: absolute;
+    left: calc(50% + 50px);
     bottom: 20px;
     padding: 5px 0 0 36px;
   }
