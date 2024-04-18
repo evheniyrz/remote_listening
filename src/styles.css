@@ -161,7 +161,7 @@ main.w-100.reset-background {
 
 .article__content__block__list__item--catalog-link {
   position: static;
-  background-image: url(/images/link__icon.png);
+  background-image: url(./images/link__icon.png);
   background-repeat: no-repeat;
   background-size: 18px 22px;
   background-position: bottom left;
